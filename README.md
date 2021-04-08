@@ -1,15 +1,5 @@
-# Flutter Template 
+# Insta Mass Agent
 
-### A flutter template using getx pattern
-
-## Contains
-#### ✅ Localization
-#### ✅ Persian Fonts(Vazir, B Yekan, B Nazanin)
-#### ✅ Dark and Light Theme
-#### ✅ Seperated Desktop and Mobile UI 
-#### ✅ API Calls Using DIO
-#### ✅ GetStorage
-#### ✅ Sample Models
-#### ✅ Error Handler
-
-![tree](https://raw.githubusercontent.com/JulyWitch/insta_mass_agent/master/tree.png)
+only the core for like, save, comment and follow is completed 
+it uses a list of usernames with the same password 
+it's currently working only on linux
