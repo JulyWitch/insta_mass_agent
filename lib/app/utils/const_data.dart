@@ -1,5 +1,5 @@
 abstract class ConstDatas {
-  static const password = "massagent";
+  static const password = "password to your accs";
   static const usernames = [
     "sajad_secret_coder",
 //    "ali_vanish_99",
